@@ -1,3 +1,6 @@
+FE_Portfolio
+design markup from portfolio project in front end web developer class
+
 version 0.2
 
 used bootstrap
