@@ -7,4 +7,4 @@ version 0.2
 - added modal
 - added persaonl pictures from my trip to Central America
 - added "goto top" button at the bottom for small screen
-- website is up on http://vascode.github.io/FEND_Porfolio/
+- website is up on [http://vascode.github.io/FEND_Porfolio/](http://vascode.github.io/FEND_Porfolio/)
